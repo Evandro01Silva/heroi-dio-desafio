@@ -2,7 +2,7 @@ console.log("-------------- Status do herói --------------");
 console.log("");
 
 let nomeHeroi = "Bradocão";
-let expHeroi = 5600;
+let expHeroi = 5600; // mude o valor da experiência para verificar o nível do herói
 
 console.log("Nome do herói: " + nomeHeroi);
 console.log("Experiência do herói: " + expHeroi);
